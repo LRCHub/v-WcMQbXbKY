@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "花になって",
+  "base_artist": "緑黄色社会",
+  "createdAt": "2025-12-08T14:08:54.102718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花になって - Be a flower",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/01_花になって_-_Be_a_flower_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花になって – Be a flower",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/02_花になって_–_Be_a_flower_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花になって - Be a flower",
+      "artist": "Ryokuoushoku",
+      "has_synced": true,
+      "path": "select/03_花になって_-_Be_a_flower_Ryokuoushoku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花になって - Be a flower",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/04_花になって_-_Be_a_flower_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花になって - Be a flower",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/05_花になって_-_Be_a_flower_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花になって",
+      "artist": "緑黄色社会",
+      "has_synced": true,
+      "path": "select/06_花になって_緑黄色社会.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "花になって - Be a flower (Paused)",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/07_花になって_-_Be_a_flower_(Paused)_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花になって",
+      "artist": "緑黄色社会",
+      "has_synced": false,
+      "path": "select/pl_01_花になって_緑黄色社会.txt"
+    }
+  ]
+}
