@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "花になって - Be a flower",
   "base_artist": "緑黄色社会",
-  "createdAt": "2026-01-07T18:55:52.844025Z",
+  "createdAt": "2026-03-20T08:58:54.115674Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,6 +59,14 @@
       "artist": "Ryokuoushoku Shakai",
       "has_synced": true,
       "path": "select/07_花になって_-_Be_a_flower_(Paused)_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "花になって - Be a flower",
+      "artist": "Song, Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/08_花になって_-_Be_a_flower_Song,_Ryokuoushoku_Shakai.lrc"
     },
     {
       "id": "petitlyrics_1",
